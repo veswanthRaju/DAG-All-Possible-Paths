@@ -18,3 +18,14 @@ you should generate the following paths
 0->2->5
 6->2->5
 4
+
+__________________________________________________________________________________________________________________________________
+Steps to run the code:
+
+-> To run the sample code, simple run the "DAGServiceTest"
+
+-> To take user input, run "DAGService" and input the following 
+      1. Total no. of nodes
+      2. Total no. of edges
+      3. For each edges, enter parent node and connected child node
+      4. Run "DAGService"
