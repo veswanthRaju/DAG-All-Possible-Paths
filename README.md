@@ -13,10 +13,15 @@ e.g., in the following graph assume that all edges point downward
       3 . 5
 
 you should generate the following paths
+
 0->1->3
+
 0->1->5 
+
 0->2->5
+
 6->2->5
+
 4
 
 __________________________________________________________________________________________________________________________________
