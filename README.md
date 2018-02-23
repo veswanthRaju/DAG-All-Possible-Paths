@@ -6,7 +6,7 @@ For each such node, generate all possible paths that originate from that node
 
 e.g., in the following graph assume that all edges point downward
 
-        0     6.      4
+        0     6.   4
        /  \ ./
        1    2
       / \ ./
