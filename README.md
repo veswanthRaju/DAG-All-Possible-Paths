@@ -6,11 +6,11 @@ For each such node, generate all possible paths that originate from that node
 
 e.g., in the following graph assume that all edges point downward
 
-      0      6 .      4
-      /  \ .  /
-    1     2
-    / \ . /
-  3 .  5
+        0     6.      4
+       /  \ ./
+       1    2
+      / \ ./
+      3 . 5
 
 you should generate the following paths
 0->1->3
